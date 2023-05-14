@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/audio-player-using-reactjs/static/css/main.d9ab56d3.css",
+    "main.js": "/audio-player-using-reactjs/static/js/main.a1783e8e.js",
+    "static/js/787.39358d8f.chunk.js": "/audio-player-using-reactjs/static/js/787.39358d8f.chunk.js",
+    "static/media/iwonder-dreamheaven.mp3": "/audio-player-using-reactjs/static/media/iwonder-dreamheaven.2fcbf12f96f7609a8711.mp3",
+    "static/media/cali-wataboi.mp3": "/audio-player-using-reactjs/static/media/cali-wataboi.a379b9b005a49b93e4cc.mp3",
+    "static/media/50-tobylane.mp3": "/audio-player-using-reactjs/static/media/50-tobylane.f1427f1de43648644b06.mp3",
+    "static/media/pause.svg": "/audio-player-using-reactjs/static/media/pause.fb88548003ec45475f04bccffb40f95c.svg",
+    "static/media/prev.svg": "/audio-player-using-reactjs/static/media/prev.d4c47e5b22e682c88130b4d965732679.svg",
+    "static/media/next.svg": "/audio-player-using-reactjs/static/media/next.4a088e973fc6777dca8e51c9602034f5.svg",
+    "index.html": "/audio-player-using-reactjs/index.html",
+    "static/media/play.svg": "/audio-player-using-reactjs/static/media/play.751c39f9c7c7f70fdb841c94ea0ff96d.svg",
+    "main.d9ab56d3.css.map": "/audio-player-using-reactjs/static/css/main.d9ab56d3.css.map",
+    "main.a1783e8e.js.map": "/audio-player-using-reactjs/static/js/main.a1783e8e.js.map",
+    "787.39358d8f.chunk.js.map": "/audio-player-using-reactjs/static/js/787.39358d8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ab56d3.css",
+    "static/js/main.a1783e8e.js"
+  ]
+}
